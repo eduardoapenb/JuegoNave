@@ -1,2 +1,2 @@
 # JuegoNave
-Un juego de nave, hecha con caracteres en C++
+Un juego de nave hecho con caracteres en C++
